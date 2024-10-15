@@ -10,7 +10,7 @@ Written by Jeffrey John Loomis
 
 ### GitHub <a href="#github" id="github"></a>
 
-To fork this GitBook, make suggestions, or contribute content, visit the GitHub repository.
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/microsoft-word-tips-and-tricks).
 
 ### License <a href="#license" id="license"></a>
 
